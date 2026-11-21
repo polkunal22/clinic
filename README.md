@@ -1,10 +1,10 @@
-﻿# Dr. Aghav's Health Clinic Website
+# Dr. Aghav's Health Clinic Website
 
 A responsive, static website for Dr. Aghav's Health Clinic in Kopar Khairane, Navi Mumbai.
 
 ## Open the website
 
-Open `index.html` in a web browser. The site uses plain HTML, CSS, and browser JavaScript, so you do not need to install dependencies or start a development server.
+Open `html/index.html` in a web browser. The site uses plain HTML, CSS, and browser JavaScript, so you do not need to install dependencies or start a development server.
 
 Google Fonts and the embedded Google Map require an internet connection. The main page and local images load from the project folder.
 
@@ -20,9 +20,10 @@ The appointment form displays a review of the entered details in the browser. It
 
 ## Main files
 
-- `index.html` — website content and browser interactions
-- `style.css` — layout, colors, and responsive styles
-- `clinic-hero.jpeg` — clinic hero image
-- `DR.jpeg` — Dr. Satish M. Aghav's profile image
-- `dr. Dentist.png` — Dr. Vikram Deshmukh's profile image
-- `dr. Clinic.png` — Dr. Priya Nair's profile image
+- `html/index.html` — website content and structure
+- `css/style.css` — layout, colors, and responsive styles
+- `js/script.js` — navigation, date handling, and appointment form validation
+- `image/clinic-hero.jpeg` — clinic hero image
+- `image/DR.jpeg` — Dr. Satish M. Aghav's profile image
+- `image/dr. Dentist.png` — Dr. Vikram Deshmukh's profile image
+- `image/dr. Clinic.png` — Dr. Priya Nair's profile image
